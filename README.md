@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Arul (ArulVScode)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=007FFF&center=true&vCenter=true&width=600&lines=Backend+Developer;+%7C+Frontend+Developer;Java+7%C+Spring+Boot+%7C+Laravel;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=007FFF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Frontend+Developer;Java+%7C+Spring+Boot+%7C+Laravel;Always+Learning+New+Things" />
 </p>
 
 ---
