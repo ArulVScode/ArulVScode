@@ -47,11 +47,15 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArulVScode&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArulVScode&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArulVScode&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArulVScode&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArulVScode&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
