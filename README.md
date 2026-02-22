@@ -15,30 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Arul
+# 👋 Hi, I'm Arul (ArulVScode)
 
-### 💻 Backend Developer | Java Enthusiast
+### 🚀 About Me
+I'm a passionate software developer from Indonesia, focusing on backend development and improving my skills every day.  
+I enjoy learning and building projects using **Java**, **Spring Framework**, and **Laravel**.
 
-I'm a passionate software developer from Indonesia.
-Currently focused on building backend applications using Java, Spring Boot, and Laravel.
+### 🛠️ Tech Stack
+- 💻 Languages: Java, PHP, JavaScript, HTML/CSS
+- 🧱 Frameworks: Spring, Laravel
+- 🔧 Tools: Git, GitHub, VS Code, MySQL
 
----
+### 📈 GitHub Stats
+<!-- Add a GitHub stats card if you want -->
 
-### 🛠 Tech Stack
-- 💻 Java
-- 🌱 Spring Boot
-- 🐘 PHP & Laravel
-- 🗄 MySQL
-- 🔧 Git & GitHub
+### 📌 Pinned Projects
+Here are some highlighted repositories:
+- 🔹 **Learning_JDBC_Connection** – Java & JDBC practical learning project  
+- 🔹 **LearningMVC_Spring** – MVC pattern with Spring  
+- 🔹 **Laravel-Backend-CBT** – Backend project with Laravel  
+- 🔹 **portofolio** – Simple web portfolio
 
----
+### 🌱 Always Learning
+Continuously exploring new frameworks & tools.  
+Open to collaborations and contributions.
 
-### 📌 Current Focus
-- Backend Development
-- Clean Code & MVC Architecture
-- Building Real-World Projects
+### 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/muh-asrul-mulis-a219962a1  
+- 📸 Instagram: https://www.instagram.com/muhasrulmulis
 
----
-
-### 🚀 Let's Connect
-- LinkedIn: www.linkedin.com/in/muh-asrul-mulis-a219962a1
