@@ -36,11 +36,29 @@ Here are some ideas to get you started:
 <p align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="60" height="60"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
 
 </p>
@@ -78,6 +96,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/muh-asrul-mulis-a219962a1">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/muhasrulmulis">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
