@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋 Hi, I'm Arul
+
+### 💻 Backend Developer | Java Enthusiast
+
+I'm a passionate software developer from Indonesia.
+Currently focused on building backend applications using Java, Spring Boot, and Laravel.
+
+---
+
+### 🛠 Tech Stack
+- 💻 Java
+- 🌱 Spring Boot
+- 🐘 PHP & Laravel
+- 🗄 MySQL
+- 🔧 Git & GitHub
+
+---
+
+### 📌 Current Focus
+- Backend Development
+- Clean Code & MVC Architecture
+- Building Real-World Projects
+
+---
+
+### 🚀 Let's Connect
+- LinkedIn: www.linkedin.com/in/muh-asrul-mulis-a219962a1
