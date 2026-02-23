@@ -50,12 +50,11 @@ Here are some ideas to get you started:
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArulVScode&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArulVScode&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArulVScode&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArulVScode&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=ArulVScode&theme=github-dark&hide_border=true" />
 </p>
 
 ---
